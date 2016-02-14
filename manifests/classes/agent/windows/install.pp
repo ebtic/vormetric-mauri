@@ -30,7 +30,7 @@ class vormetric_mauri::agent::windows::install (
   }
 
   #create management folder
-  $vm_management_folder = "C:/btconfigtest"
+  $vm_management_folder = "C:/btconfigtestM"
   $agent_download_url = "ec2-54-161-187-162.compute-1.amazonaws.com"
   $vm_dns = "$::appstack_server_identifier.$::domain"
 	
