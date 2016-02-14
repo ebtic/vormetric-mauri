@@ -1,0 +1,13 @@
+{
+    "allow_multiple": false,
+    "code": "vormetric_mauri",
+    "description": "Vormetric Data Security Agent",
+    "name": "vormetric_mauri",
+    "publisher": "app360",
+    "role": "library",
+    "tags": [],
+    "updated_at": 1415937368,
+    "website": "http://www.vormetric.com/",
+    "dependencies": [],
+    "puppet_class": "vormetric_mauri"
+}
