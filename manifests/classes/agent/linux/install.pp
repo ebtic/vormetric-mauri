@@ -2,7 +2,7 @@ class vormetric_mauri::agent::linux::install() {
 
   $vm_management_folder = "/btconfigtestM"
   $agent_download_url = "10.255.92.70"
-  #$agent_download_url = "ec2-54-161-187-162.compute-1.amazonaws.com"
+  # -amazon- $agent_download_url = "ec2-54-161-187-162.compute-1.amazonaws.com"
   $vm_dns = "$::appstack_server_identifier.$::domain"
   
   #for testing purpose
